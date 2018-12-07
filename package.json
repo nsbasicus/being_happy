@@ -1,0 +1,12 @@
+{
+  "name": "being_happy",
+  "version": "1.0.0",
+  "description": "Life = Being_Happy - pr.M.PSS ",
+  "main": "being_happy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ['life', 'is', 'being_happy', 'jahoon', 'new'],
+  "author": "Gabriel C",
+  "license": "ISC"
+}
